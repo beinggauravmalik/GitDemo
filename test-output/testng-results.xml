@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="254" started-at="2020-04-10T10:18:37Z" finished-at="2020-04-10T10:18:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="254" started-at="2020-04-10T10:18:37Z" finished-at="2020-04-10T10:18:38Z">
+      <class name="MavenPackage.MavenProject.Mavenclass1Test">
+        <test-method status="PASS" signature="firstmethod()[pri:0, instance:MavenPackage.MavenProject.Mavenclass1Test@239963d8]" name="firstmethod" duration-ms="63" started-at="2020-04-10T10:18:38Z" finished-at="2020-04-10T10:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstmethod -->
+        <test-method status="PASS" signature="secondmethod()[pri:0, instance:MavenPackage.MavenProject.Mavenclass1Test@239963d8]" name="secondmethod" duration-ms="32" started-at="2020-04-10T10:18:38Z" finished-at="2020-04-10T10:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondmethod -->
+      </class> <!-- MavenPackage.MavenProject.Mavenclass1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

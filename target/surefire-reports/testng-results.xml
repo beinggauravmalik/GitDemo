@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="122" started-at="2020-04-12T06:30:13Z" finished-at="2020-04-12T06:30:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="122" started-at="2020-04-12T06:30:13Z" finished-at="2020-04-12T06:30:13Z">
+      <class name="MavenPackage.MavenProject.Mavenclass2Test">
+        <test-method status="PASS" signature="fourthmethod()[pri:0, instance:MavenPackage.MavenProject.Mavenclass2Test@3551a94]" name="fourthmethod" duration-ms="32" started-at="2020-04-12T12:00:13Z" finished-at="2020-04-12T12:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthmethod -->
+        <test-method status="PASS" signature="thirdmethod()[pri:0, instance:MavenPackage.MavenProject.Mavenclass2Test@3551a94]" name="thirdmethod" duration-ms="0" started-at="2020-04-12T12:00:13Z" finished-at="2020-04-12T12:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdmethod -->
+      </class> <!-- MavenPackage.MavenProject.Mavenclass2Test -->
+      <class name="MavenPackage.MavenProject.Mavenclass1Test">
+        <test-method status="PASS" signature="firstmethod()[pri:0, instance:MavenPackage.MavenProject.Mavenclass1Test@735b478]" name="firstmethod" duration-ms="4" started-at="2020-04-12T12:00:13Z" finished-at="2020-04-12T12:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstmethod -->
+        <test-method status="PASS" signature="secondmethod()[pri:0, instance:MavenPackage.MavenProject.Mavenclass1Test@735b478]" name="secondmethod" duration-ms="0" started-at="2020-04-12T12:00:13Z" finished-at="2020-04-12T12:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondmethod -->
+      </class> <!-- MavenPackage.MavenProject.Mavenclass1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
